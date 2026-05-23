@@ -37,7 +37,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="C:\Users\mbamb\OneDrive\Bureau\L2GLSIC\SEMESTRE2\Integration de modeles IA\sensante\venv"
+VIRTUAL_ENV="C:\Users\mbamb\OneDrive\Bureau\L2GLSIC\SEMESTRE2\Integration de modeles IA\Labs\Lab1\sensante\venv"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
